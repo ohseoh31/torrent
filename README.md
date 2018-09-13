@@ -49,3 +49,12 @@ MFT, UsnJurnal, Logfile
 ```
 - https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=http://jjshun.tistory.com/m/14?category=564207&httpsredir=1&article=1249&context=etd_projects
 ```
+
+- PDF 경로
+```
+
+- https://www.kca.kr/open_content/bbs.do?act=file&bcd=issue&msg_no=36&file_no=1
+- https://nmlab.korea.ac.kr/publication/published%20papers/2014/2014.05-Torrent_Client_Application_Analysis-KNOM2014.pdf
+- http://for-md.org/wp-content/uploads/2014/01/For-MD-Torrent-Forensics.pdf
+
+```
