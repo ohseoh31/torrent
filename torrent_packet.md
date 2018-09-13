@@ -82,3 +82,9 @@ BT-uTP 패킷에서는 Connection ID 46080 으로 ST_DATA(0) 데이터 패킷을
 ```
  - 전송된 패킷은 1085byte = 이더넷(14byte) + IP 프로토콜(20byte) + UserData 프로토콜(8byte) + uTorrent 프로토콜(1043byte)
 ```
+
+BT-uTP 통신 peer 응답 전송
+---  
+  
+![image](https://user-images.githubusercontent.com/15623089/45510287-c2908100-b7d4-11e8-8014-84ebd174699c.png)
+- BT-uTP 상태(ST_STATE) 
