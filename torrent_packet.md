@@ -51,4 +51,11 @@ BT-uTP 통신 seeder 응답
   
 BT-uTP 패킷에서는 Connection ID 46080 으로 ST_STATE(2) 상태 응답 패킷을 전송한다. 현재 Sequence number는 22347이며 ACK number는 62808임을 확인 할 수 있다.  
   
+TODO
+```
+ 1603 - 1624 까지 분석 필요
+```
+  
+BT-uTP 통신 seeder data 전송
+---  
 
