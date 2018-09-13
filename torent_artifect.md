@@ -9,7 +9,7 @@
 
 - BitTorrent
 
-![1536804572779](C:\Users\ohseo\AppData\Local\Temp\1536804572779.png)
+![screenshot_20171221-151714](https://user-images.githubusercontent.com/15623089/45463250-51a28800-b746-11e8-96ef-a1570eecd1d0.png)
 
 
 
