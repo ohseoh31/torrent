@@ -16,5 +16,6 @@ BT-uTP 통신 seeder와의 연결
  현재 배포중이고 접속중인 192.168.43.201(seeder)가 state BT-uTP 패킷을 192.168.43.83(peer)에게 응답하고 있다.
 ```
 
+</br>
 BT-uTP 통신 peer 요청 패킷
 </br>![syn](https://user-images.githubusercontent.com/15623089/45484080-ef6d7580-b78d-11e8-8cf7-f71769e88e31.png)
