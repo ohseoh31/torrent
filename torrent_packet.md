@@ -8,7 +8,7 @@ TODO list
 - [BT-uTP Protocol](http://www.bittorrent.org/beps/bep_0029.html)
 </br>
 BT-uTP 통신 seeder와의 연결
-
+</br>
 ![syn_ack](https://user-images.githubusercontent.com/15623089/45482545-5dfc0480-b789-11e8-87ce-b335925c3d28.png)
 
 ```
