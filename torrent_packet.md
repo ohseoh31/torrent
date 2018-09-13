@@ -66,7 +66,7 @@ BT-uTP 통신 seeder 데이터 전송
   
 ![image](https://user-images.githubusercontent.com/15623089/45508617-3714f100-b7d0-11e8-8eaf-3e6366b184f1.png)  
   
-- BT-uTP 상태(ST_STATE)  
+- BT-uTP 데이터(ST_DATA)  
 
 ```
  - Version : (1)
