@@ -21,7 +21,7 @@ BT-uTP 통신 peer 요청 패킷
 ![syn](https://user-images.githubusercontent.com/15623089/45484080-ef6d7580-b78d-11e8-8cf7-f71769e88e31.png)  
   
   
-BT-uTP 연결(ST_SYN) 패킷 전송
+- BT-uTP 연결(ST_SYN) 패킷 전송  
 ---  
   
 ```
