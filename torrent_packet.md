@@ -14,8 +14,7 @@ BT-uTP 통신 seeder와의 연결
 
  BT-uTP 패킷에서 192.168.43.83(peer)이 192.168.43.201(seeder)를 찾기위해서 Syn BT-uTP 패킷을 전송하고 있다.
  현재 배포중이고 접속중인 192.168.43.201(seeder)가 state BT-uTP 패킷을 192.168.43.83(peer)에게 응답하고 있다.  
-
-
+  
 BT-uTP 통신 peer 요청 패킷
 ---  
 ![syn](https://user-images.githubusercontent.com/15623089/45484080-ef6d7580-b78d-11e8-8cf7-f71769e88e31.png)  
@@ -38,7 +37,7 @@ BT-uTP 통신 seeder 응답
 ---  
 ![state](https://user-images.githubusercontent.com/15623089/45506094-3d539f00-b7c9-11e8-919d-b36be807272e.png)  
   
-- BT-uTP 상태(ST_
+- BT-uTP 상태(ST_STATE)
 
 ```
  - Version : (1)
@@ -56,6 +55,19 @@ TODO
  1603 - 1624 까지 분석 필요
 ```
   
-BT-uTP 통신 seeder data 전송
+BT-uTP 통신 data 송/수신
 ---  
+![utp](https://user-images.githubusercontent.com/15623089/45508095-db963380-b7ce-11e8-8eb6-9250b94d6fac.png)  
+  
+ BT-uTP 패킷에서 192.168.43.201(seeder)이 192.168.43.83(peer)으로 data 1085byte를 전송한다. 
+ 192.168.43.83(peer)가 192.168.43.201(seeder)에게 state 응답 패킷을 전송한다.  
+  
+BT-uTP 통신 seeder 데이터 전송
+---  
+  
+![image](https://user-images.githubusercontent.com/15623089/45508617-3714f100-b7d0-11e8-8eaf-3e6366b184f1.png)  
+  
+- BT-uTP 상태(ST_STATE)  
 
+BT-uTP 통신 seeder 데이터 전송
+---  
