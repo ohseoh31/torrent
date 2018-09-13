@@ -18,8 +18,8 @@ BT-uTP 통신 seeder와의 연결
 
 </br>
 
-## 1. BT-uTP 통신 peer 요청 패킷
-===
+1. BT-uTP 통신 peer 요청 패킷
+======
 
 </br>![syn](https://user-images.githubusercontent.com/15623089/45484080-ef6d7580-b78d-11e8-8cf7-f71769e88e31.png)
 
@@ -37,7 +37,7 @@ BT-uTP 패킷에서 Connection ID 46080 으로 ST_SYN(4) 요청패킷을 전송�
 
 </br>
 
-## 2. 
-===
+2. 
+======
 
 </br>
