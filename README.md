@@ -27,6 +27,7 @@ https://stackoverflow.com/questions/43478842/installing-libtorrent-for-python-3-
 
 ```
 - http://maj3sty.tistory.com/1050
+- http://kali-km.tistory.com/entry/Torrent-Artifacts
 
 ```
 
