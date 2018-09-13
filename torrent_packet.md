@@ -22,7 +22,7 @@ BT-uTP 통신 peer 요청 패킷
   
   
 - BT-uTP 연결(ST_SYN) 패킷 전송  
----  
+--  
   
 ```
  - Version : (1)
