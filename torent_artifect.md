@@ -9,13 +9,13 @@
 
 - BitTorrent
 
-![screenshot_20171221-151714](https://user-images.githubusercontent.com/15623089/45463250-51a28800-b746-11e8-96ef-a1570eecd1d0.png)
+![bit](https://user-images.githubusercontent.com/15623089/45463250-51a28800-b746-11e8-96ef-a1570eecd1d0.png)
 
 
 
 - uTorrent
 
-![1536804547338](C:\Users\ohseo\AppData\Local\Temp\1536804547338.png)
+![utorent](https://user-images.githubusercontent.com/15623089/45463305-89113480-b746-11e8-91a8-43e2220b4b16.png)
 
 
 
