@@ -77,3 +77,8 @@ BT-uTP 통신 seeder 데이터 전송
  - ACK number : 62812
 ```  
   
+BT-uTP 패킷에서는 Connection ID 46080 으로 ST_DATA(0) 데이터 패킷을 전송한다. 현재 Sequence number는 22349이며 ACK number는 62812임을 확인 할 수 있다.  
+  
+```
+ - 전송된 패킷은 1085byte = 이더넷(14byte) + IP 프로토콜(20byte) + UserData 프로토콜(8byte) + uTorrent 프로토콜(1043byte)
+```
