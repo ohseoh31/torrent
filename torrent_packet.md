@@ -102,5 +102,5 @@ BT-uTP 패킷에서는 Connection ID 46081 으로 ST_STATE(2) 데이터 패킷�
 
 ```
  - 응답한 패킷은 62byte = 이더넷(14byte) + IP 프로토콜(20byte) + UserData 프로토콜(8byte) + uTorrent 프로토콜(20byte)
- - Windows Size가 48977byte으로 50000byte - (1043byte-20byte) = 48977byte로 BT-uTP프로토콜에서 이전에 받은 데이터 길이를 확인 할 수 있다.
-```
+```  
+Windows Size가 48977byte으로 50000byte - (1043byte-20byte) = 48977byte로 BT-uTP프로토콜에서 이전에 받은 데이터 길이를 확인 할 수 있다.
