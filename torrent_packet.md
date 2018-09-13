@@ -26,15 +26,29 @@ BT-uTP 통신 peer 요청 패킷
  - Version : (1)
  - type : ST_SYN(4)
  - Connection ID : 46080
+ - Windows Size : 1048576
  - Sequence number : 62808
- - Ack number : 0
+ - ACK number : 0
 ```  
   
 BT-uTP 패킷에서 Connection ID 46080 으로 ST_SYN(4) 요청패킷을 전송한다. 현재 Sequence number는 62808이며 응답이 오지 않은 상태라 Ack number는 0임을 확인 할 수 있다.
   
   
-BT-uTP 통신 seeder 요청 
+BT-uTP 통신 seeder 응답
 ---  
-![state](https://user-images.githubusercontent.com/15623089/45506094-3d539f00-b7c9-11e8-919d-b36be807272e.png)
+![state](https://user-images.githubusercontent.com/15623089/45506094-3d539f00-b7c9-11e8-919d-b36be807272e.png)  
   
+- BT-uTP 상태(ST_
+
+```
+ - Version : (1)
+ - type : ST_STATE(2)
+ - Connection ID : 46080
+ - Windows Size : 1048576
+ - Sequence number : 22347
+ - ACK number : 62808
+```  
   
+BT-uTP 패킷에서는 Connection ID 46080 으로 ST_STATE(2) 상태 응답 패킷을 전송한다. 현재 Sequence number는 22347이며 ACK number는 62808임을 확인 할 수 있다.  
+  
+
