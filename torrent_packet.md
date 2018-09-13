@@ -23,7 +23,7 @@ BT-uTP 통신 peer 요청 패킷
   
 ```
  - Version : (1)
- - type : ST_SYN(4)
+ - Type : ST_SYN(4)
  - Connection ID : 46080
  - Windows Size : 1048576
  - Sequence number : 62808
@@ -41,7 +41,7 @@ BT-uTP 통신 seeder 응답
 
 ```
  - Version : (1)
- - type : ST_STATE(2)
+ - Type : ST_STATE(2)
  - Connection ID : 46080
  - Windows Size : 1048576
  - Sequence number : 22347
@@ -69,5 +69,12 @@ BT-uTP 통신 seeder 데이터 전송
   
 - BT-uTP 상태(ST_STATE)  
 
-BT-uTP 통신 seeder 데이터 전송
----  
+```
+ - Version : (1)
+ - Type : ST_DATA(0)
+ - Connection ID : 46080
+ - Windows Size : 50000
+ - Sequence number : 22349
+ - ACK number : 62812
+```  
+  
