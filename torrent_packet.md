@@ -16,29 +16,3 @@ BT-uTP 통신 seeder와의 연결
  현재 배포중이고 접속중인 192.168.43.201(seeder)가 state BT-uTP 패킷을 192.168.43.83(peer)에게 응답하고 있다.
 
 </br>
-BT-uTP 통신 peer 요청 패킷
----
-
-</br>![syn](https://user-images.githubusercontent.com/15623089/45484080-ef6d7580-b78d-11e8-8cf7-f71769e88e31.png)
-
-
-
-BT-uTP 연결(ST_SYN) 패킷 전송
----
-
-```
- - Version : (1)
- - type : ST_SYN(4)
- - Connection ID : 46080
- - Sequence number : 62808
- - Ack number : 0
-```
-
-BT-uTP 패킷에서 Connection ID 46080 으로 ST_SYN(4) 요청패킷을 전송한다. 현재 Sequence number는 62808이며 응답이 오지 않은 상태라 Ack number는 0임을 확인 할 수 있다.
-
-</br>
-
-BT-uTP 통신 seeder 요청 
----
-
-</br>![state](https://user-images.githubusercontent.com/15623089/45506094-3d539f00-b7c9-11e8-919d-b36be807272e.png)
