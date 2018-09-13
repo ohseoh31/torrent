@@ -30,4 +30,6 @@ BT-uTP 연결(ST_SYN) 패킷 전송
  - Connection ID : 46080
  - Sequence number : 62808
  - Ack number : 0
-```
+```  
+
+BT-uTP 패킷에서 Connection ID 46080 으로 ST_SYN(4) 요청패킷을 전송한다. 현재 Sequence number는 62808이며 응답이 오지 않은 상태라 Ack number는 0임을 확인 할 수 있다.
