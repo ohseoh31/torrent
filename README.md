@@ -26,3 +26,15 @@ https://github.com/arvidn/libtorrent/issues/1923
 https://stackoverflow.com/questions/43478842/installing-libtorrent-for-python-3-6-on-windows-7
 
 ```
+- 레지스트리
+```
+
+- 파일설치
+
+Prefech
+Link file
+MFT, UsnJurnal, Logfile
+
+- http://maj3sty.tistory.com/1050
+
+```
