@@ -14,5 +14,5 @@ BitTorrent 소스코드 다운로드
  - http://bittorrent.cvs.sourceforge.net/
  - https://sourceforge.net/projects/bittorrent/
 ```  
-> .\cvs.exe -z3 -d:pserver:anonymous@a.cvs.sourceforge.net:/cvsroot/bittorrent co -P
+> C:\> .\cvs.exe -z3 -d:pserver:anonymous@a.cvs.sourceforge.net:/cvsroot/bittorrent co -P
  BitTorrent
